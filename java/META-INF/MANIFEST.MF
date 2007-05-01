@@ -1,0 +1,813 @@
+Manifest-Version: 1.0
+Created-By: 1.3.1_01 (Sun Microsystems Inc.)
+
+Name: com/ugos/d/b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: lMmoxCJ9x5zHt+Vcd84DqznIvE0=
+MD5-Digest: NBQLCYe2P0Fs9iY/7EZVxw==
+
+Name: com/ugos/d/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 2fRDli2C0BwRUPWYECf7c0mjnMw=
+MD5-Digest: x4iGCuO65R5IeVn56JaM1g==
+
+Name: com/ugos/c/c.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LGy0/4rWiZDnM9cZ8MHuvkFgvGU=
+MD5-Digest: MD6syiMDj7nPe63hFkCd5g==
+
+Name: com/ugos/c/b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: +JB4d/NPZbvIH3iQHIqXIeMDobQ=
+MD5-Digest: dxH+arkDxlFkvOEhnGNK3A==
+
+Name: com/ugos/c/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: zvTmuRkYespSW54A2nuy9TfrxWY=
+MD5-Digest: A0gOxEvFzcugKxptNeMSNg==
+
+Name: com/ugos/JIProlog/engine/Abolish1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: E3h1IsOjrmyi8vCrFT2d8ycgpRA=
+MD5-Digest: xl7fYXtB2MZArK306X1/1w==
+
+Name: com/ugos/JIProlog/engine/Abort0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /utTW6fLNIyP9xe43HQ9HRVphWQ=
+MD5-Digest: lKQzRG0e8SnYcxEuq619GA==
+
+Name: com/ugos/JIProlog/engine/Arg3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: TFbCU2tfkozffIytPb03bqAF5F4=
+MD5-Digest: biV7cpdePbnVT6Dd4cH/Lw==
+
+Name: com/ugos/JIProlog/engine/Assert1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 1n409xECIQVPoSQDkvcPbLAncik=
+MD5-Digest: Yb+h00vnA8xsyKO3bL5s4Q==
+
+Name: com/ugos/JIProlog/engine/Asserta1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0Tc+HGLwuF/zh+mIv8YlOBPJNWE=
+MD5-Digest: UhVfcIW7FrL/EA8SskUI6w==
+
+Name: com/ugos/JIProlog/engine/r.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: gNL0n9QFiyR4Ag33guyL1llEwhM=
+MD5-Digest: JyXva+7lufJt8KBrtBixpg==
+
+Name: com/ugos/JIProlog/engine/Atom1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AVQFQs9TDupXTSgaLH8irlsoS54=
+MD5-Digest: NzBlVp92RX+3gFuo4lHezg==
+
+Name: com/ugos/JIProlog/engine/BagOf3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: SZfw1yYeFG84EPO6bg2PtUHoclE=
+MD5-Digest: PEdBoiGm3MzbD8/JD3JrEQ==
+
+Name: com/ugos/JIProlog/engine/s.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: GZ0ZXdmsELcwf860FV00CjB/530=
+MD5-Digest: WDFoKZGXTpaZGOSjZrhxkQ==
+
+Name: com/ugos/JIProlog/engine/ad.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: U2ECjKfcM/sbPW2z0iIY6LOnufg=
+MD5-Digest: duigUH4/vDhpJxJ3CaBCKA==
+
+Name: com/ugos/JIProlog/engine/g.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0cBfIdhwHXf3mVnb1QNMd/eqHbo=
+MD5-Digest: 2PZ4rlJgJuh8I+gMaS5eug==
+
+Name: com/ugos/JIProlog/engine/C3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: uvOS+iZV5O7dNsaU4iLuhJduLig=
+MD5-Digest: P8vu5BOxir5TfAIzTGOnCg==
+
+Name: com/ugos/JIProlog/engine/Char1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: UvXCc1ufnMQYE5VJVQ0tvA29Myc=
+MD5-Digest: ZunFw2WMJFeh9dLtUpjDDA==
+
+Name: com/ugos/JIProlog/engine/Chars1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: v4APzQvs5e04JCAtJaJVGyUf0AA=
+MD5-Digest: cIpZ6TUMYDJlvNaaSxGMwg==
+
+Name: com/ugos/JIProlog/engine/ag.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /95myeQlECSwD/e21xSrTa9E78w=
+MD5-Digest: 9t5jT/h33IimQZT2FSTn0Q==
+
+Name: com/ugos/JIProlog/engine/Clause2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: N0wJZrQnBPok8y33EydGz2yT9wY=
+MD5-Digest: XQqn6aw7VqrqaDm9a1BEHQ==
+
+Name: com/ugos/JIProlog/engine/ab.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: m7XuaeHTnVAXLOQGSXFLh441Oq8=
+MD5-Digest: EUeFgU1p+JJZ2wFY9iKQZQ==
+
+Name: com/ugos/JIProlog/engine/d.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: T5/xowf2d108s7Oc2KrIeODT1ps=
+MD5-Digest: ZnTMmd/eWTBF6uE9a7aj0g==
+
+Name: com/ugos/JIProlog/engine/Compare3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: yxeFSCJkIG2M3jXstwsdn3f+U1k=
+MD5-Digest: hnafNPv6AVTb4jmFChdHDQ==
+
+Name: com/ugos/JIProlog/engine/Compile1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 7gv4CG7pMm42WCq4p4ShlDr5+HI=
+MD5-Digest: NUGDx0Xt4TfHddTaeQ4jtA==
+
+Name: com/ugos/JIProlog/engine/Compound1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: gH22L44mhijTG6q+DTkRNkjSk/k=
+MD5-Digest: ovIAWjyGkZjA34gMVUea6Q==
+
+Name: com/ugos/JIProlog/engine/p.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: W94T2OjVu3QWolsAOf3UEn2KiDE=
+MD5-Digest: AZsIKq8I3MkJNblbUE+k5Q==
+
+Name: com/ugos/JIProlog/engine/Consult1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LL+QXjj4mX9mtLeoEJXB7lRUUHg=
+MD5-Digest: 3kCjhfCO3QT/oUSqgUa7sA==
+
+Name: com/ugos/JIProlog/engine/z.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: aggQueahTxIIJwnOxTKAgQPWkuM=
+MD5-Digest: v3zPZ7DAQGltm0+hHUWZEg==
+
+Name: com/ugos/JIProlog/engine/CopyTerm2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: LP8KicngGf1JT9KAHplIDpXzjGQ=
+MD5-Digest: TsCicPCZuXIxdabVBMFhkw==
+
+Name: com/ugos/JIProlog/engine/CurrentOp3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: fLP3FFWVTPKuCk0Lt1r8HQdKp84=
+MD5-Digest: VuQAGVUk+kHaJS1S75Ht4A==
+
+Name: com/ugos/JIProlog/engine/Cut0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: VrBzAxkq7DQA4XsNy+8UY4Gcc4o=
+MD5-Digest: 5zfAYftYiqmDsByMIL/L9Q==
+
+Name: com/ugos/JIProlog/engine/Date3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: MXSHiC8778CuXtGvfJP+TtPPlR0=
+MD5-Digest: AapyJJASRIWba8r7J2Kepw==
+
+Name: com/ugos/JIProlog/engine/h.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: DsmUWg5CL7AKe+3a3XQnmiPaeBw=
+MD5-Digest: Mr1+v8DdQgf/lLE3XD6lfw==
+
+Name: com/ugos/JIProlog/engine/y.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: cWpVbPngYkQg25NDWXehm3yj5qs=
+MD5-Digest: zxSN3SIRqU/x9dNuN6W+Yg==
+
+Name: com/ugos/JIProlog/engine/Dialog3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QaDJOA0HmfAnoK4L5qow6RgqSm8=
+MD5-Digest: SHbHWoy9wUpYf6OFS0XYsQ==
+
+Name: com/ugos/JIProlog/engine/EnsureLoaded1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: EvDQuks/ittbAgheWElQqbD0Ft8=
+MD5-Digest: KcFx5IoDz8U7s8R8MZKqaQ==
+
+Name: com/ugos/JIProlog/engine/Equal2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: fFncB5kveyRYgSt09CP3kKT0VDU=
+MD5-Digest: C1c0b52Ppa4J2Ll24F3n1Q==
+
+Name: com/ugos/JIProlog/engine/m.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HfNARd62bMWPVvj8Xi3rm/t41Qc=
+MD5-Digest: 58GTVc7OH01yXDy/rsm/Ow==
+
+Name: com/ugos/JIProlog/engine/Exit1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qenKFtStoyJP+l1r8aPLogwM0yQ=
+MD5-Digest: o76Zuaddy6/lCu1sMLb7IA==
+
+Name: com/ugos/JIProlog/engine/ae.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: cECFGG6saSq6IdOPJOT159u/btU=
+MD5-Digest: 77lBBG799FPrzsJQLSDntA==
+
+Name: com/ugos/JIProlog/engine/Extern3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wtZ9ay3OLgsIgYS6Y09sPMteNgI=
+MD5-Digest: txwvSC2ygKxxUM9cmFis4g==
+
+Name: com/ugos/JIProlog/engine/Fail0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: SBcBws+o9uxhNpSzB5jM8jUgpuY=
+MD5-Digest: Fso8rCMM3wPlOdrbFz6zjg==
+
+Name: com/ugos/JIProlog/engine/Findall3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: DChz15B25I8B4qM6evcIlcI7dmE=
+MD5-Digest: 3ehERHUUbTkiIzfSxF71fw==
+
+Name: com/ugos/JIProlog/engine/Float1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: oCLhCvIFf4Fmn8VOSn0EGxjNBZA=
+MD5-Digest: VU6aU0Em3oEl4DGxMG/K3w==
+
+Name: com/ugos/JIProlog/engine/FlushOutput0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: F4Ycktaak6P15tkFLK10TyCLuXs=
+MD5-Digest: KBYswOwxJOY8wknLuYQgjg==
+
+Name: com/ugos/JIProlog/engine/k.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: CTTDg6tLEutIUNlK+grP771fk9I=
+MD5-Digest: yR8RwM80m/W8UrM+i8qzRA==
+
+Name: com/ugos/JIProlog/engine/Functor1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HnDby2AWZ5S0lD0rlkuCX6c/aXU=
+MD5-Digest: ie89Kd3nE/Q9KvmYAWuomg==
+
+Name: com/ugos/JIProlog/engine/Functor3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AWjmwMHe4kzhW9yS0SQ42QatL1o=
+MD5-Digest: XCmKcOV7BlT8pyyr6rjnOA==
+
+Name: com/ugos/JIProlog/engine/GarbageCollect0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: U3ya32BPGtv4Y2PxcgB3ZI4A6f8=
+MD5-Digest: fiYXff+DWa1Ub501g0+b7g==
+
+Name: com/ugos/JIProlog/engine/Get1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: NF7XZcjVH+01kIEhGcPGa7VDz2E=
+MD5-Digest: odwmfMyk8FarhHMZjhW27Q==
+
+Name: com/ugos/JIProlog/engine/t.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: TQhZjVAGdaF1jQeQ7aJ/MlSqePM=
+MD5-Digest: F3VtvHhRSHvCgOlR2af5pQ==
+
+Name: com/ugos/JIProlog/engine/Great2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: nGmUlN7bmDcHDMUCI176ny6P8GY=
+MD5-Digest: T/Uc8JGZ9eVuXb1uUCMylA==
+
+Name: com/ugos/JIProlog/engine/Ground1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: JKFd0Kf5tN7cpoa0rgf0e+vuZpE=
+MD5-Digest: qMb1MQ1RFrqXsYxa5198jg==
+
+Name: com/ugos/JIProlog/engine/Integer1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: db9Daejr2FRRhsND/tn0RP6AoK0=
+MD5-Digest: LKY8CtiHb5hBL8WcQk3IeA==
+
+Name: com/ugos/JIProlog/engine/Is2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: huhqzrnO+t7+WWJveZ/Quh1Lbr0=
+MD5-Digest: C9ZeFdxbyXmp07UrfSkbLA==
+
+Name: com/ugos/JIProlog/engine/JIPAtom.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: OgSrYoF+2tlpBTX/t8TopwuQE84=
+MD5-Digest: xolmeSgYRen5hALqsXabFw==
+
+Name: com/ugos/JIProlog/engine/JIPClause.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0gmijBQlx6CkOWPY0QJZkbfBrDE=
+MD5-Digest: lHOXPqDdfIimnfGkpT4N+w==
+
+Name: com/ugos/JIProlog/engine/JIPClausesDatabase.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: OjPHT1jo5otvSJJCB8h9MYZscCA=
+MD5-Digest: n98Tvc/kXu3vND/vNcd2IA==
+
+Name: com/ugos/JIProlog/engine/JIPClausesEnumeration.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0iPEnNfHC2NGf/621je+WBL6oBE=
+MD5-Digest: +K4JfOhEJebDcFYauYYV/A==
+
+Name: com/ugos/JIProlog/engine/JIPCons.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: yujD2rUCWSqiCrPEyy+aCGnWhBI=
+MD5-Digest: irw33l9ZwWR5oq9LmzBSPg==
+
+Name: com/ugos/JIProlog/engine/JIPDialog.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: zK1R77dSowTJHrU7YsJOkN+aD/E=
+MD5-Digest: EavuVXW4RIaWsrot/LG0AQ==
+
+Name: com/ugos/JIProlog/engine/JIPEngine$a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: eMJF5qtWfL6ooU+2/QHrKb2jRR4=
+MD5-Digest: MlfoQM953cvuDa1TPj8X0w==
+
+Name: com/ugos/JIProlog/engine/JIPEngine.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Nlu6VyzIUIdElcujBEjr4SLFMtE=
+MD5-Digest: 8d5y+Kecggb8ths+FGUJ1A==
+
+Name: com/ugos/JIProlog/engine/JIPErrorEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: PzSEyNSUsWuuhuSFCFmARbVYgT0=
+MD5-Digest: wJp8i6FM8f/E4roHealhaA==
+
+Name: com/ugos/JIProlog/engine/JIPErrorListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /6jTOBVDMBP0++8qcLNCpahZpt0=
+MD5-Digest: +oPfhAO9vqbOqvzDbL116g==
+
+Name: com/ugos/JIProlog/engine/JIPEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: H5Zsst5hxGHwPctnDqCuTQYUDjI=
+MD5-Digest: g9C2Z7NnO4ePDTMl27AGCQ==
+
+Name: com/ugos/JIProlog/engine/JIPEventListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: dWE3Fqe6/qk91GNo7EzgACjwYQw=
+MD5-Digest: 7aMI0llBaOobIIEUP5up2g==
+
+Name: com/ugos/JIProlog/engine/JIPFunctor.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: u+eNfoDN9KGj2OwXkIenzJE/Yz0=
+MD5-Digest: pk+kKzya9P6HWE/LhnadQQ==
+
+Name: com/ugos/JIProlog/engine/JIPInvalidHandleException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 3XQ12Y2EpomCZM0JSgU25Pbi65E=
+MD5-Digest: hAO24PFxsYn7v7J+rEeOiw==
+
+Name: com/ugos/JIProlog/engine/JIPIsRunningException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: iClfxvyPd9SjRL541maVtG4HEns=
+MD5-Digest: +c6MMzv6oscwxcqoEyeVWg==
+
+Name: com/ugos/JIProlog/engine/JIPJVMException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: R/523cb/ZiPJtoVY/es+DhmOopY=
+MD5-Digest: 5g7PqhxInVEia/M3rsTw1A==
+
+Name: com/ugos/JIProlog/engine/o.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: FWy/3gusSBBwtqVKm8PEi5AyBJg=
+MD5-Digest: 2DNdqkgiIRhfQ2cO6tkeVg==
+
+Name: com/ugos/JIProlog/engine/JIPList.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: g2z+RcmRDnGOoEmjFbT2zd6lPII=
+MD5-Digest: bS0EvxLya+XcsBdDyUgofQ==
+
+Name: com/ugos/JIProlog/engine/JIPNumber.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: M7QNW8jwFqN4aqY4o/wDG00C6lc=
+MD5-Digest: fwOPn9lbVbd9Phh07Hx8VQ==
+
+Name: com/ugos/JIProlog/engine/JIPParameterTypeException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: u6k2HxS5McE5AKvV5UZpArsWODw=
+MD5-Digest: 240UdlRScwXtPWEkuno/Yw==
+
+Name: com/ugos/JIProlog/engine/JIPParameterUnboundedException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: trxgFs4eP0gbfigICnDKulDpXAw=
+MD5-Digest: VkdxdJLMnwSMKesgMsJsog==
+
+Name: com/ugos/JIProlog/engine/JIPQuery.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HmDxSnSoyfcIzt8nMjWoirXUPdQ=
+MD5-Digest: NjOdphTf5E+TTSLJN4ZyEA==
+
+Name: com/ugos/JIProlog/engine/JIPQueryClosedException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 2oMVWpg9HqnlHr0E5JjStn9OemM=
+MD5-Digest: LFIWzfgi+e2FF3F45OGClQ==
+
+Name: com/ugos/JIProlog/engine/JIPRuntimeException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: UWBGFQILii8HZpXdH+zZXg6A5e4=
+MD5-Digest: 5TIMvJElBGzQxVWMTCNlqw==
+
+Name: com/ugos/JIProlog/engine/JIPString.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: fOs0Hf+eWjUxfZ5loVFRqf1hU/M=
+MD5-Digest: 15iMTUH0HLjUQSqVngKLzw==
+
+Name: com/ugos/JIProlog/engine/JIPSyntaxErrorException.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Hf+IsqKpt0IlHi/HnfsPBu12UF0=
+MD5-Digest: Otm3F/lMiUi6c4SR44f+rg==
+
+Name: com/ugos/JIProlog/engine/JIPTerm.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: UyhSw0MMcV68u7zQn+miQ85yB5c=
+MD5-Digest: HFFRkmj8Le4Qpfj4TpGyFA==
+
+Name: com/ugos/JIProlog/engine/JIPTermParser.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: XBeu1w0jiCOyITdHQ8i8KjECqQY=
+MD5-Digest: BID2T7v6Th0XXapSewkieA==
+
+Name: com/ugos/JIProlog/engine/JIPTraceEvent.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RQatIqYzR2J/0l/QdNzSM3SIpNg=
+MD5-Digest: WK9uAahMulilSC/a3kcVDQ==
+
+Name: com/ugos/JIProlog/engine/JIPTraceListener.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: TyyjGKIEu2wsuU8Ro0WJE+X5m/8=
+MD5-Digest: 5eR84m4jrNZ7wRbnA/ibZQ==
+
+Name: com/ugos/JIProlog/engine/JIPVariable.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: o9D5Ryows2eKfRW/zT/Ez968xyI=
+MD5-Digest: ILpRazvGIu+EtIpU4W2BYg==
+
+Name: com/ugos/JIProlog/engine/JIPXCall.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: lbE6990A7BC5zwIl84wCNW/4Eo8=
+MD5-Digest: v1UM1bKBD0OjnR83HM1vYA==
+
+Name: com/ugos/JIProlog/engine/Length2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: ZKeTbClYmNTVTgs2Pl1yfu5ABEc=
+MD5-Digest: 63MQKbnKPCYTdwspSiu6rA==
+
+Name: com/ugos/JIProlog/engine/Less2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: lD7P9uBJvrzquS7iYPTwed3VJqw=
+MD5-Digest: Amt/XEAOsf9+Cflo6/ylGQ==
+
+Name: com/ugos/JIProlog/engine/l.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: e355CTQjpCrsHlX9WDTNDJ1A208=
+MD5-Digest: 22wcTCOYQO1Sy9HxdWh2zw==
+
+Name: com/ugos/JIProlog/engine/List1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: b6d6u7RAFhQsButNCEe/VqpWS7Y=
+MD5-Digest: 38yWwIM6TFWz11osLoQCsg==
+
+Name: com/ugos/JIProlog/engine/Listing0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: VJoWAqTTScUDOyfuBfi0kK7gEVU=
+MD5-Digest: rHl5eXmXWAB9IwECKXczaQ==
+
+Name: com/ugos/JIProlog/engine/Load1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AtiHA5MD3jXn2OVRVSxsdGbk3EM=
+MD5-Digest: DuSkdo7RVRCRL7esDEFH1Q==
+
+Name: com/ugos/JIProlog/engine/LoadLibrary1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RPpHWlb75Farpd/NnHZt7RXTB7k=
+MD5-Digest: bWXTaA9S6QaOaREIobiDYw==
+
+Name: com/ugos/JIProlog/engine/Multifile1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: kgZfs4nrim22o00SaTol48sQbZY=
+MD5-Digest: 09PAceqGMXbakxyUoIv08Q==
+
+Name: com/ugos/JIProlog/engine/Name2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Y9eTrsQND0BnFzcvXn8i0X8DlSg=
+MD5-Digest: iVkC8jE96XFhe+o/2e1Yog==
+
+Name: com/ugos/JIProlog/engine/NL0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: xTKLZy5S7YPvgc1ezmoz7OYURCA=
+MD5-Digest: rVE1w+/umErQbtBG8UaBbA==
+
+Name: com/ugos/JIProlog/engine/Notify2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: uTL7nQ8yLhPkwG4HlHHvjDCylvE=
+MD5-Digest: +GjmftxHxLxUZeEp733b2A==
+
+Name: com/ugos/JIProlog/engine/Number1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: NILKfPqL2ndkhqmLz5JNY2WrF54=
+MD5-Digest: zWQIii1UBP1setuPSvIx4A==
+
+Name: com/ugos/JIProlog/engine/Op3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RrQkDasscP/rcmDEnA5pCEUw4bI=
+MD5-Digest: BQwAl05+f+vVFXjECkP9Zw==
+
+Name: com/ugos/JIProlog/engine/OpenSnip0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: tmmJV+IonpeopNl9uK3oBtwPwlA=
+MD5-Digest: Zggq6YfqRHuJeUJpIkgXlA==
+
+Name: com/ugos/JIProlog/engine/q.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: MJxv4EQmdXVCMx+V5SCPd2ncokg=
+MD5-Digest: RmC6+OD8n27M+tm1dfIV5Q==
+
+Name: com/ugos/JIProlog/engine/v.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 8HEBToQ8hAzneU0HttQMQs8d5j0=
+MD5-Digest: L77ZNGBA+NiKeqQVSVkLVA==
+
+Name: com/ugos/JIProlog/engine/PartialList1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0QzjDG9mUWZvBm3s0Q4JllMJ8P8=
+MD5-Digest: 45FtHGDVGZ7pDIJtMv+jbA==
+
+Name: com/ugos/JIProlog/engine/Phrase2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QGJOcsLHLXOlVG4Lq1DC5c7IPhs=
+MD5-Digest: GS1oi/9r6OYEUqkETKNsTQ==
+
+Name: com/ugos/JIProlog/engine/Phrase3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 0gDT4VzcR6dBxz8CeJMMEamH37Q=
+MD5-Digest: uMFDHtq8HXi9mrs3sI50pw==
+
+Name: com/ugos/JIProlog/engine/n.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: /ZweQzBpLOg/8kufSKR10nTO37k=
+MD5-Digest: vButWLGFeY7fQWERwAPjKw==
+
+Name: com/ugos/JIProlog/engine/w.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: KCp/dkdSayFSDlhzCI4Bf7/asiw=
+MD5-Digest: MGfgR1TTeKV5wagTJsvubQ==
+
+Name: com/ugos/JIProlog/engine/x.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6aggkiQ1HTzBgvQOEWtmdQI6f9w=
+MD5-Digest: OqX8wYiTJ4w+K26Wbw9dgw==
+
+Name: com/ugos/JIProlog/engine/ProperList1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: eICFxpuM4hCTAQrOMQu5wH0dAzo=
+MD5-Digest: SjDAx/9ApFyoE9SP/gXDVg==
+
+Name: com/ugos/JIProlog/engine/b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Mllf8ibm1p378IUhWM4/fhxTf/M=
+MD5-Digest: BzmUAEkSBvHrFggYO5DWtA==
+
+Name: com/ugos/JIProlog/engine/Read1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6f924g7+rvQhDkanxj/ZSIDdzpc=
+MD5-Digest: XWZ3VK/zmWIiRHG8gHXrZg==
+
+Name: com/ugos/JIProlog/engine/Repeat1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: aqoi/saaf/v6hf0tCWTVWFtCMHo=
+MD5-Digest: pMiPGrMcu5z6Qv7E0CY8jA==
+
+Name: com/ugos/JIProlog/engine/Retract1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: GGs56FJUANoegN4V41U2e0sR0JA=
+MD5-Digest: hXp8XWJ2EFnzI00JNhu3wA==
+
+Name: com/ugos/JIProlog/engine/Reverse2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: sG9TovG/oL1ShzRurQePjupNqec=
+MD5-Digest: /F6waFtNOTinWeo7V1LzGw==
+
+Name: com/ugos/JIProlog/engine/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: oS3oSSBe/jG6OdhiN2AtT+RY5y4=
+MD5-Digest: gxrQQiJtJh2lfPXyx5Lv7Q==
+
+Name: com/ugos/JIProlog/engine/ac.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: jowHyLCdEXEf/DGyi9ld02DkA6s=
+MD5-Digest: 24tEk6qhuzbuMMp/LQ0nHQ==
+
+Name: com/ugos/JIProlog/engine/SearchPath1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wv5sEgmQON0Kqfak5r4dObTz7y0=
+MD5-Digest: PR5NPKcf2sgHKSSBtPjTKA==
+
+Name: com/ugos/JIProlog/engine/See1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 2/EF7lQlP92gzuHc/7iOVZ/ICqg=
+MD5-Digest: 0lsGiL6rfZ4MLcdKvGzFpg==
+
+Name: com/ugos/JIProlog/engine/Seeing1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 8Y2S5U81FtcKf7KCVfguWYRIs2I=
+MD5-Digest: 0OHLyVle1waXG+xJcq/yig==
+
+Name: com/ugos/JIProlog/engine/Seen0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: RTHIwNfJFbvC/qZk4PwUpzqebZk=
+MD5-Digest: UK2FTtnS8WvcHo5d/mBR/Q==
+
+Name: com/ugos/JIProlog/engine/SetOf3.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: M1qOURvVQGqSQx3NC5ey+CZHNL8=
+MD5-Digest: Hp7ml8yZz/ymIePL19+Qyg==
+
+Name: com/ugos/JIProlog/engine/i.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 8tbHE+eqI7VjQMaKP79XpwURWmI=
+MD5-Digest: QFZ1nciooyAOyFlqvi8UQQ==
+
+Name: com/ugos/JIProlog/engine/Sort2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: t/gjw5desevh/T+ayQV5+7x3gJE=
+MD5-Digest: SgYf6NwySqtu5a6S9Mlnfw==
+
+Name: com/ugos/JIProlog/engine/Tell1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: vuTWJaZGg1O8I4Xxi2hBLAXlWlw=
+MD5-Digest: wWZQ+7WilLNVdqZMM5MjyA==
+
+Name: com/ugos/JIProlog/engine/Telling1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: s9t+3wxHXmfxwV5xdaD9osh3J9k=
+MD5-Digest: UuW/3nvv77NG8v0Uxp6uWQ==
+
+Name: com/ugos/JIProlog/engine/f.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Ivbh1t8eiQi7CloN8yDXYKuW0mI=
+MD5-Digest: QEyQhP7bjOb4WgT+hl3g1A==
+
+Name: com/ugos/JIProlog/engine/TermEquals2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 54HwBMqRIYBtquHNS4fVSwSCOe8=
+MD5-Digest: 1Cl1/Bc0wQCPlaz2JLLm3w==
+
+Name: com/ugos/JIProlog/engine/Time1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: QwUlO/9+kygrK3AISmxrLx3YuZg=
+MD5-Digest: P5+flbJ56IkxqwGI0ECQWQ==
+
+Name: com/ugos/JIProlog/engine/Time4.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: W0xhHzglXE50iM5dYZ/b9EmD24c=
+MD5-Digest: tCvdKYJWDT9hOI1K9gjIcQ==
+
+Name: com/ugos/JIProlog/engine/Told0.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 5nH/TwRYuPa0uIzfqIi9mhXKeJs=
+MD5-Digest: KXbNsc/7XE7qIrWiTcKQMQ==
+
+Name: com/ugos/JIProlog/engine/af.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: sZF2FxNLTSrVYbW+tr0qXfTp1TY=
+MD5-Digest: m1A5W0HIjAaRocFtiFN/nQ==
+
+Name: com/ugos/JIProlog/engine/Unconsult1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Txmlg6fQ4DCHLua6yYdNpRC66W0=
+MD5-Digest: EM3gSPDDCNsxGvYurzo8Hw==
+
+Name: com/ugos/JIProlog/engine/Unify2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: HB83/J4Pr6tUpRhgA9Ne9Ci0OMs=
+MD5-Digest: og/8jlEzBHaCLlbMPCHLwQ==
+
+Name: com/ugos/JIProlog/engine/Univ2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: NK4NBQt0MeFfPuVxpGxUjlHkiLE=
+MD5-Digest: 3EbOjYUst3CMke2jakCx1g==
+
+Name: com/ugos/JIProlog/engine/Var1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: qQx+KQUo59VrjgUa2g5pS880ixM=
+MD5-Digest: X6yB3aJX/0zxSVHGZuocYA==
+
+Name: com/ugos/JIProlog/engine/e.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: of7Aze/t54kJZq1LyZM/xLhTgjA=
+MD5-Digest: G+Iw8X4/I8ttI+EuDAZ0uQ==
+
+Name: com/ugos/JIProlog/engine/Ver1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: L/iIdpckEfXwzlk/2xqar0YGvEs=
+MD5-Digest: QGrMnBwVY5xcDK5L00K4Tg==
+
+Name: com/ugos/JIProlog/engine/Wait1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: NdaBhTIWCSWCI0/R1mCFi5KaND4=
+MD5-Digest: ciCM0Nkk+jHvL53XGv/1+Q==
+
+Name: com/ugos/JIProlog/engine/j$a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: V9KxaPXyRWifOlsOYDSgPuoX6gk=
+MD5-Digest: bvug1/w1NnBk1Ysj17kZ5g==
+
+Name: com/ugos/JIProlog/engine/j$b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: TeFXYwk3fLcBRY9SqI/QJdhcH7Y=
+MD5-Digest: GcnXUcAitl15OOhb/9ooLQ==
+
+Name: com/ugos/JIProlog/engine/j.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: hhbI4Rpx/XOdGylAJKSeMBCQGYM=
+MD5-Digest: DGXyMfAocS1/91PB5J7QGQ==
+
+Name: com/ugos/JIProlog/engine/c.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Ixlvu0cXlXeB0dvtZeLpv3cesV4=
+MD5-Digest: FtsEhbe9nmdyWwiJ7zR/lA==
+
+Name: com/ugos/JIProlog/engine/u.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: lyCWFNrpwHABFlRsz6U0Hqef4Ec=
+MD5-Digest: XKHoQZNUVjskThB2640UaQ==
+
+Name: com/ugos/JIProlog/engine/Write1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Ujsyaq41QNjJo2F2FsfQK49kscg=
+MD5-Digest: 3eGdfdKEs/0OIfEwRzu/EA==
+
+Name: com/ugos/JIProlog/engine/Writeq1.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: gkQ6XxxHbpp5ffjusf+SZ2k3se0=
+MD5-Digest: lONv7qGP2xYfbNrqfxnNZw==
+
+Name: com/ugos/JIProlog/engine/XCall2.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: sQmOaSM8U0WYpo5UXUAYRYpzY8I=
+MD5-Digest: a/MpTSOF5GJnODdMg9JaEw==
+
+Name: com/ugos/JIProlog/engine/aa.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Kul36itSzhqpzptIikVzByxVnKw=
+MD5-Digest: pxM62AwBK8bBPYMYoWFjFw==
+
+Name: com/ugos/JIProlog/JIProlog.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Gi2GTslK1WRg31cannpNCMBaQRg=
+MD5-Digest: he3cdLL7tlSdozH5IIb6iQ==
+
+Name: com/ugos/JIProlog/resources/BuiltIn.def
+Digest-Algorithms: SHA MD5 
+SHA-Digest: NpzxF39kQcF7MuUhj56pk1OmSNY=
+MD5-Digest: iacsT9j/HjXYI3SkwHPlgw==
+
+Name: com/ugos/JIProlog/resources/JIPKernel.pl
+Digest-Algorithms: SHA MD5 
+SHA-Digest: g0GYXfvO2mwTwVTymV8BvuIvFNk=
+MD5-Digest: lIHZ20Dgz2uet5dbdOHZaw==
+
+Name: com/ugos/b/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wQhYCpyDOOoUp4xmlH/lCuqfDaA=
+MD5-Digest: zM7cauvrk1br/G0YU2w2yw==
+
+Name: com/ugos/b/b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: Q5fi8bO4CYYfqF1dzrNt8UegfZo=
+MD5-Digest: BBy1UAgASxF9Ps4lrRSvug==
+
+Name: com/ugos/a/g.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: XkXtOlA+w0pA94UDIyX6Zyg9N8A=
+MD5-Digest: oR0w1zFmWxBLpAngnMvOKA==
+
+Name: com/ugos/a/c.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 6sydGNQoscDS8Xue+v628lSfjRg=
+MD5-Digest: k+j2WoZ6FtZ+mubG3yr4TA==
+
+Name: com/ugos/a/e.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: tvnqi9vXuHzgqDTKCldsIzWyCjI=
+MD5-Digest: MHQkGM8CVL1vm4OqruhUjw==
+
+Name: com/ugos/a/f.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: AGMcNbUfNXFRwTQnAaVRkhN0vd8=
+MD5-Digest: dqhMaJd0cjATFIRktlC6cA==
+
+Name: com/ugos/a/h.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: wEhZgIBDnwqUjUGchbqmJ/lQfNM=
+MD5-Digest: Y12D6lOuKc42+pZQuFLq0g==
+
+Name: com/ugos/a/b.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: dXfGiSnSJK7aStg6ZhznbAQ+8do=
+MD5-Digest: xB7Ko9L3Z+pF89hQAGw9qg==
+
+Name: com/ugos/a/d.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: fxjm+YywSzvf+uBAV7c0BApC4kk=
+MD5-Digest: nmliToVB0SxmMZ0In9i4NQ==
+
+Name: com/ugos/a/a.class
+Digest-Algorithms: SHA-1 MD5 
+SHA-1-Digest: 46nOXIvoFRr/t1iERYmjsJSGU+c=
+MD5-Digest: Pp3T2JQNGSQmYOeeRntdkg==
+

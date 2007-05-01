@@ -1,0 +1,17 @@
+arroz:recomendado
+cereales:recomendado
+pan:recomendado
+patatas:recomendado
+pasta:recomendado
+fruta:recomendado
+verduras:recomendado
+legumbres:recomendado
+pescado:recomendado
+cerdo:recomendado
+vacuno:recomendado
+ave:recomendado
+embutidos:recomendado
+fritos:recomendado
+lacteos:recomendado
+huevos:recomendado
+dulces:recomendado
